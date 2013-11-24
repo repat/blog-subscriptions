@@ -8,21 +8,25 @@
     <outline title="Hacker News" text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/" htmlUrl="https://news.ycombinator.com/"/>
     <outline title="Lifehacker" text="Lifehacker" type="rss" xmlUrl="http://lifehacker.com" htmlUrl="http://lifehacker.com/"/>
     <outline title="Project Loon @ Google+" text="Project Loon @ Google+" type="rss" xmlUrl="http://rss2lj.net/g+/103068231639729844333" htmlUrl="https://plus.google.com/103068231639729844333"/>
+    <outline title="Jens em Portugal" text="Jens em Portugal" type="rss" xmlUrl="http://jensemportugal.blogspot.pt/" htmlUrl="http://jensemportugal.blogspot.com/"/>
     <outline title="Moxie Marlinspike's Blog" text="Moxie Marlinspike's Blog" type="rss" xmlUrl="http://www.thoughtcrime.org/blog/rss.xml" htmlUrl="http://www.thoughtcrime.org/blog/"/>
     <outline title="xkcd.com" text="xkcd.com" type="rss" xmlUrl="http://xkcd.com" htmlUrl="http://xkcd.com/"/>
     <outline title="Not Safe For Work" text="Not Safe For Work" type="rss" xmlUrl="http://not-safe-for-work.de/" htmlUrl="http://not-safe-for-work.de/"/>
     <outline title="Heml.is blog!" text="Heml.is blog!" type="rss" xmlUrl="http://hemlismessenger.wordpress.com/" htmlUrl="http://hemlismessenger.wordpress.com/"/>
     <outline title="WRINT" text="WRINT" type="rss" xmlUrl="http://wrint.de" htmlUrl="http://www.wrint.de/"/>
+    <outline title="HAW Hamburg - RSS-Feeds" text="HAW Hamburg - RSS-Feeds" type="rss" xmlUrl="http://www.haw-hamburg.de/nc/kategorie/127/rss.xml" htmlUrl="http://www.haw-hamburg.de/"/>
     <outline title="Crossgeared.com - Cycling, tech and other stuff I like" text="Crossgeared.com - Cycling, tech and other stuff I like" type="rss" xmlUrl="http://crossgeared.com/" htmlUrl="http://crossgeared.com/"/>
+    <outline title="HIBS Aktuell" text="HIBS Aktuell" type="rss" xmlUrl="http://www.haw-hamburg.de/hibs/rss.xml" htmlUrl="http://www.haw-hamburg.de/"/>
     <outline title="The Lifecycle" text="The Lifecycle" type="rss" xmlUrl="http://thelifecycle.roblutter.com/journal/" htmlUrl="http://thelifecycle.roblutter.com/"/>
     <outline title="Weltenbummler Mag" text="Weltenbummler Mag" type="rss" xmlUrl="http://www.weltenbummlermag.de/feed/" htmlUrl="http://www.weltenbummlermag.de/"/>
     <outline title="blog.timmschoof.com" text="blog.timmschoof.com" type="rss" xmlUrl="http://blog.timmschoof.com" htmlUrl="http://blog.timmschoof.com/"/>
     <outline title="Augen geradeaus" text="Augen geradeaus" type="rss" xmlUrl="http://augengeradeaus.net" htmlUrl="http://augengeradeaus.net/"/>
     <outline title="JetSetCitizen.com" text="JetSetCitizen.com" type="rss" xmlUrl="http://jetsetcitizen.com/" htmlUrl="http://jetsetcitizen.com/"/>
+    <outline title="simon_afk" text="simon_afk" type="rss" xmlUrl="http://simonafk.wordpress.com/" htmlUrl="http://simonafk.wordpress.com/"/>
     <outline title="Tropical MBA - Entrepreneurship, Travel, and Lifestyle" text="Tropical MBA - Entrepreneurship, Travel, and Lifestyle" type="rss" xmlUrl="http://feeds.feedburner.com/GetPaidToTravelTheWorld-TheTropicalMba" htmlUrl="http://www.tropicalmba.com/"/>
     <outline title="Dustin Curtis" text="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
     <outline title="Netzleben" text="Netzleben" type="rss" xmlUrl="http://netzleben.com/feed/" htmlUrl="http://netzleben.com/"/>
-    <outline title="repats blog" text="repats blog" type="rss" xmlUrl="http://repat.de/feed" htmlUrl="http://repat.de/"/>
+    <outline title="repats blog   repats blog" text="repats blog   repats blog" type="rss" xmlUrl="http://repat.de/feed" htmlUrl="http://repat.de/"/>
     <outline title="The CitizenWeb Project" text="The CitizenWeb Project" type="rss" xmlUrl="https://citizenweb.is/feed/" htmlUrl="https://citizenweb.is/"/>
     <outline title="arkOS" text="arkOS" type="rss" xmlUrl="https://arkos.io/blog/" htmlUrl="https://arkos.io/"/>
     <outline title="Jacob Cook" text="Jacob Cook" type="rss" xmlUrl="https://jcook.cc/atom.xml" htmlUrl="https://jcook.cc/"/>
@@ -31,5 +35,10 @@
     <outline title="/bin/geekhost" text="/bin/geekhost" type="rss" xmlUrl="http://loewenherz.geekhost.de/" htmlUrl="http://www.geekhost.de/"/>
     <outline title="CULT OF THE DEAD COW" text="CULT OF THE DEAD COW" type="rss" xmlUrl="http://feeds.feedburner.com/cultofthedeadcow" htmlUrl="http://w3.cultdeadcow.com/cms/"/>
     <outline title="Paulinchen Worldwide | Hinnerk Weiler" text="Paulinchen Worldwide | Hinnerk Weiler" type="rss" xmlUrl="http://paulinchen-worldwide.com/de/blog/" htmlUrl="http://paulinchen-worldwide.com/de"/>
+    <outline title="Zwei nach Shanghai" text="Zwei nach Shanghai" type="rss" xmlUrl="http://zweinachshanghai.de/news/" htmlUrl="http://zweinachshanghai.de/"/>
+    <outline title="Soldatenglück" text="Soldatenglück" type="rss" xmlUrl="http://feeds.feedburner.com/soldatenglueck" htmlUrl="http://soldatenglueck.de/"/>
+    <outline title="GBS Schweiz" text="GBS Schweiz" type="rss" xmlUrl="http://giordano-bruno-stiftung.ch/feed/" htmlUrl="http://giordano-bruno-stiftung.ch/"/>
+    <outline title="Sailing, Simplicity, and the Pursuit of Happiness" text="Sailing, Simplicity, and the Pursuit of Happiness" type="rss" xmlUrl="http://sailingsimplicity.com/" htmlUrl="http://sailingsimplicity.com/"/>
+    <outline title="Bruder Leichtfuss" text="Bruder Leichtfuss" type="rss" xmlUrl="http://www.bruderleichtfuss.com/feed/" htmlUrl="http://www.bruderleichtfuss.com/"/>
   </body>
 </opml>
