@@ -1,7 +1,7 @@
-Owncloud News Subscriptions
+Blog subscriptions
 ======
 
-This is a backup of my news subscriptions in owncloud as .opml.
+This is a backup of my blog and news subscriptions as .opml.
 
 ## Contact
 * http://repat.de
