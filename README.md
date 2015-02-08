@@ -1,7 +1,7 @@
-Blog subscriptions
+OPML subscriptions
 ======
 
-This is a backup of my blog and news subscriptions as .opml.
+This is a backup of my news reader and podcast subscriptions as .opml.
 
 ## Contact
 * http://repat.de
