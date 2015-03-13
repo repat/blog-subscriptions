@@ -4,7 +4,7 @@
     <head>
 
         <dateCreated>
-Fri Feb 27 16:56:26 CET 2015
+Thu Mar 12 22:37:55 CET 2015
         </dateCreated>
     </head>
 
@@ -69,6 +69,18 @@ Fri Feb 27 16:56:26 CET 2015
         <outline xmlUrl="http://omegataupodcast.net/feed/" />
 
         <outline xmlUrl="http://www.npr.org/rss/podcast.php?id=510298" />
+
+        <outline xmlUrl="http://bicycletouringpro.com/blog/feed/podcast/" />
+
+        <outline xmlUrl="http://travellingtwo.com/category/cycling-trips/podcasts/feed" />
+
+        <outline xmlUrl="http://feeds.feedburner.com/touringtalk" />
+
+        <outline xmlUrl="http://feeds.hearstartup.com/hearstartup" />
+
+        <outline xmlUrl="http://feeds.wnyc.org/radiolab" />
+
+        <outline xmlUrl="http://podcast.99percentinvisible.org/feed/podcast/" />
     </body>
 
 </opml>
